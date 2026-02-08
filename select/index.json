@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "涙そうそう",
+  "base_artist": "夏川りみ",
+  "createdAt": "2026-02-08T07:18:00.303351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "Hanafugetsu",
+      "has_synced": false,
+      "path": "select/01_涙そうそう_Hanafugetsu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "Eric Martin",
+      "has_synced": true,
+      "path": "select/02_涙そうそう_Eric_Martin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "마마무 (MAMAMOO)",
+      "has_synced": true,
+      "path": "select/03_涙そうそう_마마무_(MAMAMOO).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/04_涙そうそう_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "BEGIN",
+      "has_synced": false,
+      "path": "select/05_涙そうそう_BEGIN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "夏川りみ",
+      "has_synced": true,
+      "path": "select/06_涙そうそう_夏川りみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "涙そうそう (Nada Sou Sou)",
+      "artist": "Kishi Bashi",
+      "has_synced": true,
+      "path": "select/07_涙そうそう_(Nada_Sou_Sou)_Kishi_Bashi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "夏川りみ",
+      "has_synced": true,
+      "path": "select/08_涙そうそう_夏川りみ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "涙そうそう(ウチナーグチ・バージョン)",
+      "artist": "夏川 りみ",
+      "has_synced": false,
+      "path": "select/09_涙そうそう(ウチナーグチ・バージョン)_夏川_りみ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "涙そうそう - Nada Soso",
+      "artist": "Rimi Natsukawa",
+      "has_synced": true,
+      "path": "select/10_涙そうそう_-_Nada_Soso_Rimi_Natsukawa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "夏川りみ",
+      "has_synced": true,
+      "path": "select/11_涙そうそう_夏川りみ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "涙そうそう (三線バージョン) - Nada Sousou （Sanshin Version）",
+      "artist": "BEGIN",
+      "has_synced": true,
+      "path": "select/12_涙そうそう_(三線バージョン)_-_Nada_Sousou_(Sanshin_Version)_BEGIN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "夏川りみ",
+      "has_synced": true,
+      "path": "select/13_涙そうそう_夏川りみ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "Rimi Natsukawa",
+      "has_synced": true,
+      "path": "select/14_涙そうそう_Rimi_Natsukawa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "森山良子",
+      "has_synced": true,
+      "path": "select/15_涙そうそう_森山良子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "涙そうそう",
+      "artist": "杏里",
+      "has_synced": false,
+      "path": "select/16_涙そうそう_杏里.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "涙そうそう",
+      "artist": "夏川 りみ",
+      "has_synced": false,
+      "path": "select/pl_01_涙そうそう_夏川_りみ.txt"
+    }
+  ]
+}
